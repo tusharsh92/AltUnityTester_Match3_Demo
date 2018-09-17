@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Bee_Icon_Flying
+  serializedVersion: 4
+  m_AnimationType: 2
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: bdd4003f508a39a4fa7e0ffebad2c4e6, type: 3}
+    - time: .0833333358
+      value: {fileID: 21300000, guid: 9c70c3a0b17c0194aa572521c57aa20f, type: 3}
+    - time: .166666672
+      value: {fileID: 21300000, guid: 52acf13ee311ca54eac430a9de7ae26e, type: 3}
+    - time: .25
+      value: {fileID: 21300000, guid: ae98b89847ba8054db9c4db087146f3c, type: 3}
+    - time: .333333343
+      value: {fileID: 21300000, guid: ebccde820e62d364d969a91f3be0843b, type: 3}
+    - time: .416666657
+      value: {fileID: 21300000, guid: 258d99f6976a8fc4bb9f5a1945f595ec, type: 3}
+    - time: .5
+      value: {fileID: 21300000, guid: ae09480c6118b4d4bae17e43dc11e508, type: 3}
+    - time: .583333313
+      value: {fileID: 21300000, guid: fabde49c6f84f34438572416c0f4d1da, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .666666627
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []
